@@ -1,0 +1,16 @@
+e7b750e27307d83cae6727b33e96f1f6 *DESCRIPTION
+937b419ea5dc9cd18f7eb9d698d1d3a1 *NAMESPACE
+9a272ac6d537ba76bf6899ecd972082b *R/LP.comoment.R
+e91d82776962b7035cff3495231215ff *R/LP.moment.R
+038cf3bb626434641c1774f617855c90 *R/LPTime.R
+a4e0c86e285d136fc22d729f3469fcc5 *R/LPTrans.R
+03992cf3aa3e4f8ae39a62eff27e16e8 *R/LPiTrack.R
+3146d8e223a4251a0633b6cf994468e1 *R/VAR.R
+01ec50928df8901be0ed9c555114857f *data/EyeTrack.sample.rda
+2deca40704170b224bf28619172cacff *man/EyeTrack.sample.Rd
+9e49a2e79ee3578af39ac86d42d38d11 *man/LP.moment.Rd
+5fd524cedba7fb4e052af6c960068ad8 *man/LPTime-package.Rd
+f9255c996bf5cc573a043e084ba4a5b4 *man/LPTime.Rd
+3dff662bb3443f54db1c4eceedc21d28 *man/LPTrans.Rd
+a05f5a7f5710eaec26a4f3fe1d1ded02 *man/LPiTrack.Rd
+5a3af942e55532efab852e4acc3160c7 *man/VAR.Rd
